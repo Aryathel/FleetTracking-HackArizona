@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "modular-fleet-tracking",
+  "private_key_id": "1acc7b177d4ee53ca5ed6c52de1fcba33323e81a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDzQg9gyfh3UyI3\nBeNv+sNWz6ZHvcbR7CQ4ubAeQ9vDJ44aI6v4ZBcmBn8SN0Ce9pDFyujNgHCxYFfx\nOm2oyfO2wSPt8qr3nNlWPSr8SNxE4rJH/l7V5mjDLx2xINZKNMFwP7AiAYLFA8lT\nlEwb7dHiPXHR4l8+wl//nMt73++AWkR/9XJh1vmYhlEMN/1nc4cwOmXJH1XoCk5C\n/oU+NrJHM3T8wYfUeAXxADaoSASwNTIR/YCyw4c2k57jo7m9ZwcJLgDwj0CK+DTO\nJaiIv7jXFry31u/vMfVzH7/gTASyBtsyjVs1Y5Q/SodCFtHnI0SzxNfLL8EmsuWT\nDderplA7AgMBAAECggEAMUneUc86n/rhQOLZjZPyxoE2gOzL/zbos/Gz5L39JlK6\ncUNvEdo98n94edlmJ49wEBOoDhOLQfVyfDdJhty8m/gQbqMvzxIh215zekDNGMwS\nMZIx5wdTjNDcJEqyAMElvLe62XkS5RZ6UYwHy9TpJP0sNcm3YMEDsIg1lrjuD0RV\n3gbTWRJj7rKCFZ/s2KpKgyIH45LoYnMHCO/7qbW2UdOq5Wnv4DIHKlPBmPn+SiWH\nEzLLe0pTklwk68biL0l5IZGiQyAoifHSnC4l/8zY/M8rYzlI3zW3T4fKzemHYoKL\nClrqUQp2kRUFYi9UDzzHim2SFklEr+vVj26KF7zpwQKBgQD+Eb7YkRXtFi5Cokyk\n2gtcmv1sbPn7vU3cX4L3tGKu+vdN9kHzpWsZfQuRKpum+zQ4mLoHgMu3KyRSBGyN\nKeyC/1INXecjuI0A+13cI36st645KEU3Gyb5vj4hFwAo+BB9qOBKTzcVAvCFaz6m\nGYVjax/OOgFqbzqzwpQHxGcKWwKBgQD1G0hoMcTTzykZEn2pPbTpLpHCwFwaqA7e\n4+gKgghLt4ooqZki+j+Uq7rjq18SuuMldA+U6oZ+9xAT+4A9mIRSDGOjIMoWfyDf\nddfan8R5MCiGSnFQGP2wtU2wfV71J3Javo7X83ry9FW35ui1GBy3ytSlPobnqyP1\nD/8rzIH3oQKBgHTLVY8ayxiNHMD2+QLDVXvBqAQi6JwH/vXyVjNmkgLcTbliHhlS\nDrTN3fZivuD5E5183++5DmzqgSzO6dPO1PG3S1Hnu+yY1wD/jLs4+e+OFKIj2AWo\nDre587ekaidrObF6Y3jlh226RzUeAtO6Ya49PYbA9YunDDY8mW4kpDWHAoGAIwwa\np2NubIbzrnUZaMi9BJa3GuzcfqdHMRHPjSkYvJLq+3N8xSaZTs3bdFB90LTOY/2b\neMSsJJ15PBI7PROA4CaLXLkEjIDzF2DHU6iCtH1xXfppB3X7WHgkOrdCi7VvQZB7\n5l8XVoQfeaNX5QUknhcvns05BwlOo+z8pKuibeECgYBMhFXW3unawBWKWozxMm8+\nbpR7YRoNuo6F+e4YCP7HFnoW3axfQCFaoAUqysYgVdrRVLX9WTwms/o/vejWjNCg\nUthJxFH5dYLUqvW+qwW36JposumM/cluytLxXg6a9mUnKHLsnF6rbE7WHmIU2w9Q\nimTpgn0smqCvBvi0MLYfLQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "modularfleettracking@modular-fleet-tracking.iam.gserviceaccount.com",
+  "client_id": "102369501749273860369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/modularfleettracking%40modular-fleet-tracking.iam.gserviceaccount.com"
+}
