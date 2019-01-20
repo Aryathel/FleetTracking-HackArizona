@@ -1,0 +1,656 @@
+[
+  {
+    "id": "ddb8798f-ce9e-4773-84e4-045e35b3d8ba",
+    "data": [
+      {
+        "text": "tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle number ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "fa2f270d-70da-43d9-b91d-3b80cf87325a",
+    "data": [
+      {
+        "text": "tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "e447e8e0-4b3a-44a3-87db-4836fc9a01c1",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "type",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " is vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "63",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "ba26090a-2df2-4827-949c-919ba2cd8740",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "type",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle is ",
+        "userDefined": false
+      },
+      {
+        "text": "94",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "054a9bf9-d08a-4ae6-9ce9-bd35cba4ee3f",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "velocity",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "altitude",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "102",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "c19ca771-8987-44c5-8465-67963668207b",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " about vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "52",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "40dccb75-4fb3-4186-9158-059f2d4e098e",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "heading",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "type",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "66",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "12683a44-9380-4fc1-9eaf-945cd6f3f237",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "altitude",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "bb9a2a90-a1d0-42eb-a0d3-3819395a7b12",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "heading",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "bcc7c6d1-33d3-4b2a-9883-4b56b86d7fd8",
+    "data": [
+      {
+        "text": "where",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": true
+      },
+      {
+        "text": " is truck ",
+        "userDefined": false
+      },
+      {
+        "text": "87",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "0eec7553-5a9a-46f5-b4e6-ae35008980b9",
+    "data": [
+      {
+        "text": "where",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": true
+      },
+      {
+        "text": " is vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "7e175727-ca51-4fee-9428-d8a5fded2d05",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "e6b33135-ca2f-41b2-87a7-965a4a54e02d",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547974207
+  },
+  {
+    "id": "8458c5c2-70d4-44b3-9087-680d8fb1212c",
+    "data": [
+      {
+        "text": "track the ",
+        "userDefined": false
+      },
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " on truck ",
+        "userDefined": false
+      },
+      {
+        "text": "76",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547971173
+  },
+  {
+    "id": "32f8e410-9890-4063-b3fc-3e5bc44668df",
+    "data": [
+      {
+        "text": "track ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547970837
+  },
+  {
+    "id": "187d803d-9f91-47c5-92f6-19c6707cffdb",
+    "data": [
+      {
+        "text": "vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "99",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "altitude",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547970837
+  },
+  {
+    "id": "120437c0-5c8e-4736-b24d-a50dc8032c6f",
+    "data": [
+      {
+        "text": "track ",
+        "userDefined": false
+      },
+      {
+        "text": "heading",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547970837
+  },
+  {
+    "id": "d22492e1-a7c9-41e0-9152-e702167e9ba3",
+    "data": [
+      {
+        "text": "everything",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "87",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547962817
+  },
+  {
+    "id": "6993de2d-0ab5-437f-bb46-755ad1c0f14f",
+    "data": [
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547962817
+  },
+  {
+    "id": "fe0cc9c2-1547-44b2-9438-9e2d2652789a",
+    "data": [
+      {
+        "text": "all information",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "72",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547962817
+  },
+  {
+    "id": "5bbddc81-dcff-413a-a973-11501c07a9e5",
+    "data": [
+      {
+        "text": "speed",
+        "alias": "VehicleData",
+        "meta": "@VehicleData",
+        "userDefined": false
+      },
+      {
+        "text": " of vehicle ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547962817
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "3c25d3d4-b867-4247-9976-2358989bb032",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Denver",
+  "webhook": {
+    "url": "https://fleettracking-3c4b4.appspot.com/check_a_vehicle",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

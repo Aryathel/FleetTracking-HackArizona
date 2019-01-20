@@ -1,0 +1,59 @@
+{
+  "id": "3c25d3d4-b867-4247-9976-2358989bb032",
+  "name": "Vehicle Track",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getVehicleInfo",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87f7cf89-274b-43a9-8336-e6c456d8dadf",
+          "required": true,
+          "dataType": "@VehicleData",
+          "name": "VehicleData",
+          "value": "$VehicleData",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What do you want to know about the vehicle?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "9974ed74-2f1a-42bb-8cbf-394f321c85e1",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the vehicle\u0027s ID number?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Getting that right away"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547984640,
+  "fallbackIntent": false,
+  "events": []
+}

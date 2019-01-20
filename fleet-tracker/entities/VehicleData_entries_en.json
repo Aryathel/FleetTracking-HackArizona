@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Location",
+    "synonyms": [
+      "Location",
+      "position",
+      "where"
+    ]
+  },
+  {
+    "value": "Speed",
+    "synonyms": [
+      "Speed",
+      "velocity",
+      "fast"
+    ]
+  },
+  {
+    "value": "Heading",
+    "synonyms": [
+      "Heading",
+      "direction"
+    ]
+  },
+  {
+    "value": "Altitude",
+    "synonyms": [
+      "Altitude",
+      "Height"
+    ]
+  },
+  {
+    "value": "Everything",
+    "synonyms": [
+      "All information",
+      "all info",
+      "everything"
+    ]
+  },
+  {
+    "value": "Type",
+    "synonyms": [
+      "Type",
+      "category"
+    ]
+  }
+]
