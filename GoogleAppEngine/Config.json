@@ -1,0 +1,9 @@
+{
+    "API_KEY": "AIzaSyBtczPKyAAr9FkT1fBhnmoXlvnfS0JZDIA",
+    "AUTH_DOMAIN": "fleettracking-3c4b4.firebaseapp.com",
+    "DB_URL": "https://fleettracking-3c4b4.firebaseio.com/",
+    "STORAGE_BUCKET": "",
+    "SERVICE_ACCOUNT": "Credentials.json",
+    "WEBSOCKET_URL": "ws://52.160.46.169/ws/events",
+    "API_URL": "http://52.160.46.169//api/EquipmentManagement/v1.0/EquipmentUnit"
+}
