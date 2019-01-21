@@ -5,3 +5,5 @@ Map Website Link, Open this in any browser:
 35.225.52.32
 
 The rest of the project is done through talking with Google Assistant through Google Home.
+
+To access the DialogFlow part, zip the fleet-tracker folder and import into DialogFlow.
